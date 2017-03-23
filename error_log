@@ -1,0 +1,2 @@
+[05-Feb-2017 08:38:01 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/wwwprovi/public_html/wp-content/themes/unifyprovis/index.php on line 15
+[19-Mar-2017 00:17:54 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/wwwprovi/public_html/wp-content/themes/unifyprovis/404.php on line 10
